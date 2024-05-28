@@ -1,0 +1,16 @@
+Step 1: Start
+Step 2: Import all the modules that are needed
+Step 3: Greet the user
+Step 4: Take the command from the user
+Step 5: Check what does the command have and do the following accordingly:
+Step 5.1: if command has 'who is' then search on wikipedia and return the summary
+Step 5.2: else if command has 'open' in it, then open the specified software or website
+Step 5.3: else if command has 'joke' in it, then fetch a joke and play it on user's speaker
+Step 5.4: else if command has 'play' in it, then check from the following
+Step 5.4 a: if command has 'play music' or 'play songs' in it then play a random song from the user's directory
+Step 5.4 b: else open youtube and play the specified video/channel/artist 
+Step 5.5: elseif command has 'current time' in it, then tell the current time
+Step 5.6: else if command has 'email' in it, then ask for subject,body and recipient of the mail and send the mail accordingly
+Step 5.7: else if command has 'message' in it, then ask for the body and recipient of the message and send a whatapp message
+Step 5.8: else if not even single condition of the above are true, speak "Couldn't recognise that, can you please repeat"
+Step 6: Stop if the user says exit ashley
